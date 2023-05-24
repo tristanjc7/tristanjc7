@@ -7,4 +7,4 @@
 
 
 - ⚡ Fun fact: I have learned to code and create web pages while in prison, I have obtained many certificates through edX and Coursera I take Udemy classes. I got my High school diploma here and will be starting a college degree science and computer information systems soon all while being in prison.
---> All to show my daughter that anything is possible and under all circumstances we can all succeed.
+--> My goal is to show my daughter that anything is possible and under all circumstances anyone can succeed.
