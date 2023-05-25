@@ -1,6 +1,7 @@
 
-    👋 Hi, I’m @tristanjc2
-    👀 I’m interested in, Anything coding. I am professionaly certified through edX/W3C for Front-end Web Development, Google - Data Analytics & Google - IT Support.
+    👋 Hi, I’m Tristan Chandler
+    👀 I’m interested in, Anything coding. I am professionaly certified through edX/W3C for Front-end Web Development,
+    Google - Data Analytics & Google - IT Support.
     🌱 I’m currently learning, Python & R
     💞️ I’m looking to collaborate on, Haven't figured that out yet.
     📫 *How to reach me by mail only unfortunately, 
